@@ -1,4 +1,6 @@
 # node-aws-lambda-es6-module-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/shmuga/node-aws-es6-module-boilerplate.svg)](https://greenkeeper.io/)
 Boilerplate for Node modules development and deployment to AWS Lambda.
 
 Clone repository to feel all the power of this boilerplate!
